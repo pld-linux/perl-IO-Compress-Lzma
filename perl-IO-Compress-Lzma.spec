@@ -8,13 +8,13 @@
 Summary:	IO::Compress::Lzma - Perl interface to read/write lzma files/buffers
 Summary(pl.UTF-8):	IO::Compress::Lzma - perlowy interfejs do odczytu/zapisu buforów/plików lzma
 Name:		perl-IO-Compress-Lzma
-Version:	2.033
+Version:	2.045
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/IO/PMQS/IO-Compress-Lzma-%{version}.tar.gz
-# Source0-md5:	bb1db86597e81fd8d8f910ddb26c7464
+# Source0-md5:	f7c721ba32b5f5cae9c05e29915679f9
 URL:		http://search.cpan.org/dist/IO-Compress-Lzma/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
