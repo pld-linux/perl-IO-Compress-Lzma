@@ -4,7 +4,6 @@
 #
 %define		pdir	IO
 %define		pnam	Compress-Lzma
-%include	/usr/lib/rpm/macros.perl
 Summary:	IO::Compress::Lzma - Perl interface to read/write lzma files/buffers
 Summary(pl.UTF-8):	IO::Compress::Lzma - perlowy interfejs do odczytu/zapisu buforów/plików lzma
 Name:		perl-IO-Compress-Lzma
